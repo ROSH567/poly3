@@ -1,0 +1,13 @@
+[
+  {
+    "name": "poly4",
+    "protocol": "groth16",
+    "circuit": "poly4/circuit.circom",
+    "input": "poly4/input.json",
+    "wasm": "poly4/out/circuit.wasm",
+    "zkey": "poly4/out/poly4.zkey",
+    "vkey": "poly4/out/poly4.vkey",
+    "r1cs": "poly4/out/poly4.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
